@@ -40,5 +40,5 @@ Coming Soon 🚀
 
 ## Connect with Me
 
-✅ [Microsoft Azure AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/khanyasotashe-1639/B259BDC2FA6CFDE3?sharingId=B0D5193F8B06B682)<br>
+[![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/khanya-sotashe19)<br>
 Email: Khanya.sotashe@outlook.com
