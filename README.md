@@ -40,5 +40,5 @@ Coming Soon 🚀
 
 ## Connect with Me
 
-<a href="https://www.linkedin.com/in/khanya-sotashe19" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="18" height="18"/></a><br>
+<a href="https://www.linkedin.com/in/khanya-sotashe19" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24"/></a><br>
 Email: Khanya.sotashe@outlook.com
