@@ -15,7 +15,7 @@ I'm currently:
 
 ## Certifications
 
-✅ Microsoft Azure AZ-900
+✅ [Microsoft Azure AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/khanyasotashe-1639/B259BDC2FA6CFDE3?sharingId=B0D5193F8B06B682)
 
 🎯 Microsoft Azure AZ-104 (In Progress)
 
