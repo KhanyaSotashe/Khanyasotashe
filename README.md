@@ -40,6 +40,5 @@ Coming Soon 🚀
 
 ## Connect with Me
 
-LinkedIn: 
-GitHub:
+LinkedIn: www.linkedin.com/in/khanya-sotashe19
 Email: Khanya.sotashe@outlook.com
