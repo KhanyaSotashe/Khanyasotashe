@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an IT graduate with an Advanced Diploma in Information Technology which I obtained at Nelson Mandela University. I am mainly focused on IT Support where I can get hands on experience with on premises Active Directory maintainence then later on transition into cloud where I already have foundational knowledge with the Azure Fundamentals certification.
+I'm an IT graduate with an Advanced Diploma in Information Technology which I obtained at Nelson Mandela University. I am mainly focused on IT Support where I can get hands on experience with on premises Active Directory maintainence in which I currently have 1 year of experience then later on transition into cloud where I already have foundational knowledge with the Azure Fundamentals certification.
 
 I'm currently:
 
