@@ -34,7 +34,7 @@ I'm currently:
 
 ## Featured Projects
 * [Azure 100 Days Challenge](https://github.com/KhanyaSotashe/azure-100-days) - A 100-day journey learning Microsoft Azure and cloud computing.
-*  [Automation](https://github.com/KhanyaSotashe/Automation/tree/main) 
+*  [Automation](https://github.com/KhanyaSotashe/Automation/tree/main) - A portfolio of automation projects using PowerShell, Azure CLI and Python.
 
 ---
 
